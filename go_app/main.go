@@ -23,6 +23,6 @@ func main() {
 	celsius := (fahrenheit - 32) * 5 / 9
 
 	// output
-	fmt.Println("The temperature in Celsius is",celsius)
+	fmt.Println("The temperature in Celsius is", celsius)
 	fmt.Println("\nDone.")
 }
